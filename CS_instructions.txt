@@ -1,0 +1,19 @@
+1a) Sniff Packet
+
+sudo python3 sniff.py
+
+1b) Sniffer
+sudo python3 sniffer.py -v -i enp3s0
+
+2a) DDOS Attack
+sudo python3 ddos.py
+check on wireshark website slows down copy ip address paste on browser
+
+2b)IP Spoofing
+sudo python3 spoof.py
+check on wireshark
+
+2c)DNS Attack
+sudo python3 dns.py
+check on wireshark
+
